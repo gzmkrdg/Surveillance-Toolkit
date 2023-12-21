@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <data name="funding_statement" xml:space="preserve">
+        <value>Bu proje, 965328 sayılı hibe sözleşmesi kapsamında Avrupa Birliği'nin Horizon 2020 araştırma ve yenilik programından fon almıştır.</value>
+    </data>
+    <data name="neoipc_project" xml:space="preserve">
+        <value>NeoIPC Projesi</value>
+    </data>
+    <data name="licensed_under" xml:space="preserve">
+        <value>altında lisanslı</value>
+    </data>
+    <data name="translated_by" xml:space="preserve">
+        <value>Çeviri: Gizem Karadağ</value>
+    </data>
+    <data name="license_url" xml:space="preserve">
+        <value>https://creativecommons.org/licenses/by/4.0/deed.tr</value>
+    </data>
+</root>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <data name="title" xml:space="preserve">
+        <value>Ana Veri Toplama Sayfası</value>
+    </data>
+    <data name="subtitle" xml:space="preserve">
+        <value>NeoIPC - Çekirdek Modül</value>
+    </data>
+    <data name="enrolment" xml:space="preserve">
+        <value>Kayıt</value>
+    </data>
+    <data name="pat_id" xml:space="preserve">
+        <value>Hasta Kimliği</value>
+    </data>
+    <data name="pat_name" xml:space="preserve">
+        <value>Hasta adı</value>
+    </data>
+    <data name="private_note" xml:space="preserve">
+        <value>Bu alanlar hastayı hastane içinde kesin olarak tanımlamaya yarar. NeoIPC gözetim veri setinin bir parçası değildirler ve veri toplama platformuna iletilmemelidirler.</value>
+    </data>
+    <data name="gest_age" xml:space="preserve">
+        <value>Gestational age</value>
+    </data>
+    <data name="gest_age_desc" xml:space="preserve">
+        <value>weeks + days (e.g., 25+4)</value>
+    </data>
+    <data name="birthweight" xml:space="preserve">
+        <value>Gebelik yaşı</value>
+    </data>
+    <data name="birthweight_desc" xml:space="preserve">
+        <value>gram</value>
+    </data>
+    <data name="sex" xml:space="preserve">
+        <value>Seks</value>
+    </data>
+    <data name="female" xml:space="preserve">
+        <value>kadın</value>
+    </data>
+    <data name="male" xml:space="preserve">
+        <value>erkek</value>
+    </data>
+    <data name="undetermined" xml:space="preserve">
+        <value>belirsiz</value>
+    </data>
+</root>

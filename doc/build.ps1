@@ -339,6 +339,7 @@ if ($null -eq $targetCultures)
         (new-object CultureInfo("")),
         (new-object CultureInfo("de")),
         (new-object CultureInfo("es"))
+        (new-object CultureInfo("tr"))
          )
 }
 if ($Release)
